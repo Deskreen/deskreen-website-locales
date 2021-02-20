@@ -1,14 +1,16 @@
 # deskreen-website-locales
 This is a project with locales for private git repo of [deskreen.com](https://deskreen.com) website
 
+### Want to add new language or found a typo on Deskreen APP (not a website)? [Here are guides on how to help](https://github.com/pavlobu/deskreen#get-started-for-translators)
+
 ## Contents
 
 - [Notes on editing `translation.json` files. (Applies to all contributors wether you know how to code or not)](#notes-on-edit)
-- [I don't know how to code or I don't know how git works, but I want to help with fixing a typo for a language used in Deskreen App or Website](#dont-know-code)
-- [I know how to code and I know how git works, where should I start with fixing a typo for a language used in Deskreen App or Website?](#i-know-code)
+- [I don't know how to code or I don't know how git works, but I want to help with fixing a typo for a language used in Deskreen  Website](#dont-know-code)
+- [I know how to code and I know how git works, where should I start with fixing a typo for a language used in Deskreen Website?](#i-know-code)
 - [When adding a new language important notes (Applies to all contributors wether you know how to code or not)](#adding-new-lang-important)
-- [I don't know how to code or I don't know how git works, but I want to help with adding a new language support for Deskreen App and Website](#dont-know-code-lang)
-- [I know how to code and I know how git works, where should I start with adding a new language for Deskreen App and Website?](#i-know-code-lang)
+- [I don't know how to code or I don't know how git works, but I want to help with adding a new language support for Deskreen  Website](#dont-know-code-lang)
+- [I know how to code and I know how git works, where should I start with adding a new language for Deskreen Website?](#i-know-code-lang)
 
 <a id="notes-on-edit">
 <h2>Notes on editing `translation.json` files. (Applies to all contributors wether you know how to code or not)</h2>
@@ -53,7 +55,7 @@ Some content of `translation.json`
 <br/>
 
 <a id="dont-know-code">
-<h2>I don't know how to code or I don't know how git works, but I want to help with fixing a typo for a language used in Deskreen Website [deskreen.com](https://deskreen.com) </h2>
+<h2>I don't know how to code or I don't know how git works, but I want to help with fixing a typo for a language used in Deskreen Website</h2>
 </a>
 
 Find `translation.json` file for language you need to edit in this repo subfolders (ex. `en/translation.json`, `ua/translation.json` etc.)
@@ -71,7 +73,7 @@ Good text editors for different operating systems:
 ### [make sure you are following these guides when editing a `translation.json` file](#notes-on-edit)
 
 When you've finished editing files, 
-you can send me a Google Drive link to these files for translations of Deskreen App or Website, or attach them to email.
+you can send me a Google Drive link to these files for translations of Deskreen Website, or attach them to email.
 Send your email with files here: pavlobu@gmail.com
 Thank you very much!
 
@@ -79,7 +81,7 @@ Thank you very much!
 <br/>
 
 <a id="i-know-code">
-<h2>I know how to code and I know how git works, where should I start with fixing a typo for a language used in Deskreen  Website [deskreen.com](https://deskreen.com)? </h2>
+<h2>I know how to code and I know how git works, where should I start with fixing a typo for a language used in Deskreen  Website? </h2>
 </a>
 
 Find `translation.json` file for language you need to edit in this repo subfolders (ex. `en/translation.json`, `ua/translation.json` etc.)
@@ -87,11 +89,9 @@ Find `translation.json` file for language you need to edit in this repo subfolde
 ### [make sure you are following these guides when editing a `translation.json` file](#notes-on-edit)
 
 Fix typos and then submit your PR on this repo. Thank you!
-### IMPORTANT: Please make sure your PR is 1 or maximum 2 commits length. If it is longer than that, you will be asked to squash your PR commits. If you don't know how to squash, refer [this guide](#dont-know-code)
 
-### After you done fixing, please submit your PR, it will be reviewed and if everything is ok it will be merged and you fix will be included in next release. Thank you!
-
-
+<br/>
+<br/>
 <br/>
 <br/>
 
@@ -115,7 +115,7 @@ Fix typos and then submit your PR on this repo. Thank you!
 <br/>
 
 <a id="dont-know-code-lang">
-<h2>I don't know how to code or I don't know how git works, but I want to help with adding a new language support for Deskreen App and Website</h2>
+<h2>I don't know how to code or I don't know how git works, but I want to help with adding a new language support for Deskreen Website</h2>
 </a>
 
 You can use any simple text editor to edit `translation.json` file.
@@ -135,7 +135,7 @@ open link -> right click in browser window -> Save as..
 
 ### When finished editing translation.json files
 
-You can send me a Google Drive link to these files for translations of Deskreen App and Website, or attach them to email.
+You can send me a Google Drive link to these files for translations of Deskreen Website, or attach them to email.
 Send your email with files here: pavlobu@gmail.com
 **Thank you in advance!**
 
@@ -144,7 +144,7 @@ Send your email with files here: pavlobu@gmail.com
 <br/>
 
 <a id="i-know-code-lang">
-<h2>I know how to code and I know how git works, where should I start with adding a new language for Deskreen App and Website?</h2>
+<h2>I know how to code and I know how git works, where should I start with adding a new language for Deskreen Website?</h2>
 </a>
 
 Fork this repo.
@@ -154,6 +154,3 @@ When you've finished editing submit a PR with your changes to this repo, then it
 **Thank you in advance!**
 
 #### [make sure you are following these guides when editing a `translation.json` while adding a new language](#adding-new-lang-important)
-### IMPORTANT: Please make sure your PR is 1 or maximum 2 commits length. If it is longer than that, you will be asked to squash your PR commits. If you don't know how to squash, refer [this guide](#dont-know-code)
-
-
