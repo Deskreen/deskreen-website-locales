@@ -86,7 +86,7 @@
     "Disconnect - Disconnect": "Disconnect - 断开连接",
     "Click to copy - Click to copy": "Click to copy - 点击复制",
     "Connected - Connected": "Connected - 已连接",
-    "Screen Recording Permission on MacOS is in System Preferences -> Security & Privacy -> Privacy -> Screen Recording": "MacOS 上的屏幕录制权限位于系统首选项 -> 安全与隐私 -> 隐私 -> 屏幕录制",
+    "Screen Recording Permission on MacOS is in System Preferences -> Security & Privacy -> Privacy -> Screen Recording": "MacOS 上的屏幕录制权限位于系统 偏好设置 -> 安全与隐私 -> 隐私 -> 屏幕录制",
     "How to use Deskreen": "如何使用 Deskreen",
     "THREE EASY STEPS": "三个简单的步骤",
     "Deskreen shares your computer screen to a web browser": "Deskreen 将您的计算机屏幕共享给 Web 浏览器",
@@ -156,7 +156,7 @@
     "Deskreen is an open source application that is easy to use. It uses state of the art video streaming web technology and is not collecting or sending your personal data anywhere. Deskreen works faster and smoother than VNC based solutions. Also with Deskreen you can turn any device into a teleprompter. Deskreen supports sharing a single application window to screen viewing device. Deskreen may be used to make any device as a secondary screen for your computer. Also Deskreen works over WiFi.": "Deskreen 是一个易于使用的开源应用程序。它使用最先进的视频流网络技术，不会在任何地方收集或发送您的个人数据。Deskreen 的运行速度比基于 VNC 的解决方案更快、更流畅。此外，使用 Deskreen，您可以将任何设备变成提词器。Deskreen 支持在屏幕查看设备上共享单个应用程序窗口。Deskreen 可用于将任何设备作为计算机的辅助屏幕。此外，Deskreen 还可以通过 WiFi 工作。",
     "Can I connect my tablet with my computer with a USB or USB-C cable to use Deskreen instead of using WiFi or LAN?": "我是否可以使用 USB 或 USB-C 数据线将平板电脑与电脑连接，而不是使用 WiFi 或局域网来使用 Deskreen？",
     "Yes. But this is a slightly complicated thing to do. We highly recommend you to use Deskreen with WiFi or LAN. Otherwise, if you really want it to work with a USB cable, you need to enable tethering between your computer and tablet in such a way so your computer shares the Internet with your tablet over USB. For example let’s say you have an IPad and Mac. You can connect them with USB cable and enable a built in feature of MacOS to do Internet sharing over USB to your IPad. Then you need to open a web browser on your IPad. Then type a slightly different address in the IPad web browser address bar than what you see under Deskreen QR code. For example if you see (your address will be different!) http//192.168.1.143131/123456 under QR code, on your IPad you will need to type http//192.168.2.13131/123456 . And then open the page. (Notice 192.168.2.1 - this only was tested and worked with IPads and Mac. Your case may be different) . Then Deskreen should run over USB in this case with no need for WiFi. At least it worked for some users. On Windows or Linux tethering devices over USB and sharing the Internet to them may be different. So you need to find your way on how to do this. Try google search to find out how to do this. This process may take you a lot of time and probably with no outcome, so we still highly recommend you to use Deskreen with WiFi or LAN.": "是。但这是一件稍微复杂的事情。我们强烈建议您使用带有 WiFi 或局域网的 Deskreen，如果您没有 WiFi 或局域网网络，您可以使用旅行 USB WiFi 路由器创建您的迷你网络。你可以在网上买。否则，如果您真的想让 Deskreen 使用 USB 数据线，您需要在您的计算机和平板电脑之间启用这样一种方式，以便您的计算机通过 USB 与您的平板电脑共享互联网。例如，假设你有一台 iPad 和一台 Mac 电脑。你可以用 USB 线将它们连接起来，启用 MacOS 的内置功能，通过 USB 将互联网分享到你的 iPad 上。然后重新启动 Deskreen。然后你需要在 iPad 上打开网页浏览器。然后在 iPad 网页浏览器地址栏中键入一个与 Deskreen 二维码下的地址略有不同的地址。例如，如果你在二维码下面看到 (你的地址将不同！)：http://192.168.1.14:3131/123456 ，你需要在你的 ipad 上输入：http://192.168.2.1:3131/123456 。然后打开页面。(注意 192.168.2.1 - 这只在 iPad 和 Mac 上进行了测试和工作。您的情况可能有所不同)。那么在这种情况下，Deskreen 应该可以在 USB 上运行，而不需要 WiFi。至少它对一些用户有效。在 Windows 或 Linux 上，通过 USB 连接设备并与其共享互联网可能有所不同。所以你需要找到你的方法来做这件事。试试谷歌搜索，看看如何做到这一点。这个过程可能会花你很多时间，而且可能没有结果，所以我们仍然强烈建议你使用带有 WiFi 或局域网的 Deskreen。我们再次提醒您，如果您没有 Wi-Fi 或局域网网络，您可以使用 USB 旅行路由器创建自己的迷你网络。你可以在网上买到。",
-    "Shop for Recommended Travel USB Wifi Router on Amazon": "在亚马逊 (Amazon) 上购买推荐的旅行 USB Wifi 路由器",
+    "Shop for Recommended Travel USB Wifi Router on Amazon": "推荐在亚马逊 (Amazon) 上购买旅行 USB Wifi 路由器",
     "Why is my virtual display blurry when I’m using Deskreen with a Virtual Display Plug?": "当我使用带有虚拟显示接口的 Deskreen 时，为什么虚拟显示模糊？",
     "First of all you need to be sure you have the following": "首先，您需要确保具备以下条件",
     "You have a good local internet speed between your computer and screen viewing device (phone, tablet etc.). Make sure that you are close to the WiFi router and the router is not very old (supports 5Ghz connection). For LAN it is the same slow and old network cards may perform poorly with screen sharing using Deskreen.": "您的计算机和屏幕查看设备 (手机、平板电脑等) 之间的本地网速很快。确保您靠近 WiFi 路由器，并且路由器不是很旧 (支持 5 GHz 连接)。对于局域网来说，情况也是如此。使用 Deskreen 进行屏幕共享时，速度较慢且较旧的网卡性能可能较差。",
@@ -242,10 +242,10 @@
     "CLI support for programmatic access": "对编程访问的 CLI 支持",
     "And many many more...": "还有更多的...",
     "Your contribution will help us to achieve our goals faster. Depending on how active Deskreen's community is, we are going to implement the above listed features in future updates of Deskreen.": "您的贡献将帮助我们更快地实现我们的目标。根据 Deskreen 社区的活跃程度，我们将在 Deskreen 的未来更新中实现上面列出的功能。",
-    "This website is powered with": "本网站由",
-    "from": "从",
-    "using": "使用",
-    "Design by": "设计人员",
+    "This website is powered with": "本网站",
+    "from": "由",
+    "using": "提供支持使用",
+    "Design by": "设计",
 
 
 
